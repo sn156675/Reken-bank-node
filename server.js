@@ -35,3 +35,5 @@ app.listen(PORT, HOST);
   //werden soll. die werte der beiden konstanten HOST und PORT werden in den
    //Ausdruck übergegeben ein Verb mit anschließenden runden Klammern steht immer für eine Anweisung etwas zu tun--!>
 console.log(`Running on http://${HOST}:${PORT}`);
+
+require('./uebungen/01-grundlagen.js');
